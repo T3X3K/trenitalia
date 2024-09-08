@@ -1,7 +1,7 @@
 # Trenitalia
 Materiale per premio IgNobel.
 
-## Abstratc
+## Abstract
 L'obiettivo di questa esperienza è di verificare che l'orario effettivo di partenza e di arrivo dei treni di Trenitalia segui un andamento gaussiano.
 
 ## Collaborazione
